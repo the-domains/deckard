@@ -1,0 +1,28 @@
+name: deckard
+favicon: null
+layout_spectrum: 0.09141108114272356
+typography_spectrum: 0.19940172787755728
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9654888343065977
+  lightness: 0.7425241870805621
+  saturation: 0.9587973619345576
+  rhythmicContrast: 0.11605392396450043
+purpose: []
